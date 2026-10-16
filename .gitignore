@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+/logs/
+.pytest_cache/
+*.log
+/data_backup_*/
+*.lock
+/volumes/
+
+# Runtime data (generated locally)
+/data/
